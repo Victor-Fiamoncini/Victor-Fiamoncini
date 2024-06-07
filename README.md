@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Software developer with more than 5 years of experience in companies and as a freelancer. Currently working focusing on back-end using mainly Python/Flask, but also delivering personal projects and solving front-end demands using mainly ReactJS/NextJS stuff.</p>
+<p align="left">Software developer with 6 years of experience in companies and as a freelancer. Currently working focusing on back-end using mainly Python/Flask, but also delivering personal projects and solving front-end demands using mainly ReactJS/NextJS stuff.</p>
 
 ###
 
-<p align="left">📚 Bachelor's degree in Computer Science at IFC Campus Rio do Sul;<br>🎯 Currently studying about web applications infrastructure and reading the "Grokking Algorithms".</p>
+<p align="left">📚 Bachelor's degree in Computer Science at IFC Campus Rio do Sul;<br>🎯 Currently studying about web applications infrastructure and Rust lang.</p>
 
 ###
 
