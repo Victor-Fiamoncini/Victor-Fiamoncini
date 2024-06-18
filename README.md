@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">📚 Bachelor's degree in Computer Science at IFC Campus Rio do Sul;<br>🎯 Currently studying about web applications infrastructure and Rust lang.</p>
+<p align="left">📚 Bachelor's degree in Computer Science at IFC Campus Rio do Sul;<br>🎯 Studying about web applications infrastructure and Rust lang.</p>
 
 ###
 
-<h2 align="left">I'm currently working with</h2>
+<h2 align="left">I'm working with</h2>
 
 ###
 
