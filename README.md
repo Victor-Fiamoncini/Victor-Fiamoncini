@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" style="font-size: 20px">Software developer with 6 years of experience in companies and as a freelancer. Currently working focusing on back-end using mainly PHP/Laravel/Symfony, but also delivering personal projects and solving front-end demands using ReactJS/NextJS.</p>
+<p align="left" style="font-size: 20px">Software Engineer with 6 years of experience in both companies and freelance projects. Currently focused on back-end development using Node.js and PHP (Laravel/Symfony), while also building personal projects with React and Next.js.</p>
 
 ###
 
